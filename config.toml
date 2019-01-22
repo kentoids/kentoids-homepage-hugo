@@ -5,7 +5,7 @@ copyright = "© 2019 kentoids.github.io"
 paginate = 3
 
 theme = "minimage"
-googleAnalytics = "66148464"
+googleAnalytics = "UA-132855439-1"
 
 [params]
   description = "works and experiments"
