@@ -1,0 +1,33 @@
+baseurl = "https://kentoids.github.io/"
+languageCode = "en"
+title = "kentoids"
+copyright = "© 2019 kentoids.github.io"
+paginate = 3
+
+theme = "minimage"
+
+[params]
+  description = "works and experiments"
+  author = "kentoids"
+  logo = '/img/bball_circle_2.png'
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[[menu.global]]
+    name = "About"
+    url = "/page/about/"
+
+[[menu.global]]
+    name = "Works"
+    url = "/categories/Works/"
+
+[[menu.global]]
+    name = "Experiments"
+    url = "/categories/Experiments/"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
