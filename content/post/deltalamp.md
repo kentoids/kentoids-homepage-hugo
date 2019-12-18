@@ -1,5 +1,5 @@
 +++
-title = "Delta Robot + Lamp"
+title = "Delta Lamp"
 description = ""
 tags = [
     "product",
@@ -8,7 +8,7 @@ tags = [
     "hardware",
 ]
 date = "2019-01-01"
-image = '/img/deltalamp/IMG_0861-2.png'
+image = '/img/deltalamp/IMG_3867-2.png'
 categories = [
     "Experiments",
 ]
@@ -25,4 +25,11 @@ Arduino, Servo, Led Light, Processing
 
 |||
 |---|---|
-|![test](/img/deltalamp/IMG_0861.jpg)||
+試作1
+![test](/img/deltalamp/IMG_0861.jpg)
+
+試作2
+![test](/img/deltalamp/IMG_1381.jpg)
+
+試作3(maker faire kyoto 2019)
+![test](/img/deltalamp/IMG_3867.JPG)
