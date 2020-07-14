@@ -1,7 +1,7 @@
 baseurl = "https://kentoids.github.io/"
 languageCode = "en"
 title = "kentoids"
-copyright = "© 2019 kentoids.github.io"
+copyright = "© 2020 kentoids.github.io"
 paginate = 3
 
 theme = "minimage"

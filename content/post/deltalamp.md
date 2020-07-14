@@ -3,33 +3,38 @@ title = "Delta Lamp"
 description = ""
 tags = [
     "product",
-    "experiment",
     "robotics",
     "hardware",
 ]
-date = "2019-01-01"
-image = '/img/deltalamp/IMG_3867-2.png'
+date = "2020-07-14"
+image = '/img/deltalamp/IMG_3320.jpg'
 categories = [
-    "Experiments",
+    "Works",
 ]
 menu = "main"
 +++
 
-デルタロボットの機構とランプを組み合わせたキネティックランプの実験
+DeltaLamp is a robotic lamp which uses Delta Robot structure to move and animate.
 
-Arduino, Servo, Led Light, Processing
+デルタランプはデルタロボット構造を使ったランプです。この構造によって歩いたり、様々なアニメを実現することができます。
+
+Arduino, Servo, Led Light, openFrameworks
 
 <div style="text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8swrn4d7OIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KhdzSmElsf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xCDTQ3hO2oU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 |||
 |---|---|
-試作1
-![test](/img/deltalamp/IMG_0861.jpg)
 
-試作2
-![test](/img/deltalamp/IMG_1381.jpg)
+![test](/img/deltalamp/IMG_3315.jpg)
 
-試作3(maker faire kyoto 2019)
-![test](/img/deltalamp/IMG_3867.JPG)
+![test](/img/deltalamp/IMG_3320.jpg)
+
+![test](/img/deltalamp/IMG_3323.jpg)
+
+![test](/img/deltalamp/deltarobot_software01.png)
